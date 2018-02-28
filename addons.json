@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "Weight Percentage Calculator",
+		"file" : "weightpercentage",
+		"extension" : "ipf",
+		"fileVersion" : "v0.1.3",
+		"releaseTag" : "v0.1.3",
+		"unicode" : "⛄",
+		"description" : "Show the weight percentage of your backpack. (e.g. Consume(Potion): 2752 (33.8%), Etc: 820 (10.1%), Equiping: 813 (10.0%), ...) so that you can quickly know how to lighten your backpack. Type command /weight in chatbox to use.",
+		"tags" : [
+			"item", "weight"
+		]
+	}
+]
