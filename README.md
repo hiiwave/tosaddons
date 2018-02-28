@@ -19,5 +19,17 @@ Type `/weight` in chatbox, and then the results are shown in messages.
 ![result](https://github.com/hiiwave/TosAddon-weightpercentage/blob/master/demo/output2.JPG)
 
 
+
+## GuildContribParser
+
+An addon which parses each guild member's contribution and save to json file.
+
+### Usage:
+Go to the guild tower and open the guild growth interface. Type `/guildcontrib` in chatbox. The result is saved to `"[$TreeOfSavior_Folder]\addons\guildcontribparser\contrib.json`.
+
+(You need to create the folder `"[$TreeOfSavior_Folder]\addons\guildcontribparser` before first usage.)
+
+
+
 ## Contibution:
 Pull request is welcome :)
